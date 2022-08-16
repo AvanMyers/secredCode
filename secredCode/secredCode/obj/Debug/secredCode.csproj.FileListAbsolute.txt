@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\secredCode\secredCode\bin\Debug\secredCode.exe.config
+D:\Visual Studio\Project\secredCode\secredCode\bin\Debug\secredCode.exe
+D:\Visual Studio\Project\secredCode\secredCode\bin\Debug\secredCode.pdb
+D:\Visual Studio\Project\secredCode\secredCode\obj\Debug\secredCode.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\secredCode\secredCode\obj\Debug\secredCode.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\secredCode\secredCode\obj\Debug\secredCode.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\secredCode\secredCode\obj\Debug\secredCode.exe
+D:\Visual Studio\Project\secredCode\secredCode\obj\Debug\secredCode.pdb
